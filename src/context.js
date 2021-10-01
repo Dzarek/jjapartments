@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import items from "./dataPL";
-import items2 from "./data";
+import { items } from "./dataPL";
+import { items2 } from "./data";
 import Client from "./Contentful";
 let rooms = [];
 

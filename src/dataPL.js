@@ -15,7 +15,7 @@ import img10 from "./images/room-10.jpeg";
 import img11 from "./images/room-11.jpeg";
 import img12 from "./images/room-12.jpeg";
 
-export default [
+export const items = [
   {
     sys: {
       id: "1",
@@ -31,7 +31,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -88,7 +88,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -145,7 +145,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -202,7 +202,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -259,7 +259,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -316,7 +316,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -373,7 +373,7 @@ export default [
       breakfast: false,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -430,7 +430,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -487,7 +487,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -544,7 +544,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -601,7 +601,7 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -658,7 +658,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
@@ -715,7 +715,7 @@ export default [
       breakfast: true,
       featured: true,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium magnam ducimus vel, neque ipsam totam perspiciatis fugit nobis eligendi ipsa maiores ratione quae officiis eum iste omnis, rerum cupiditate similique! Amet tenetur quam corrupti, blanditiis sapiente earum architecto impedit, deleniti rem accusamus magnam, consequatur qui suscipit ex nostrum quae? Odio.",
       extras: [
         "Pluszowe poduszki i oddychająca pościel",
         "Miękkie, duże ręczniki kąpielowe",
