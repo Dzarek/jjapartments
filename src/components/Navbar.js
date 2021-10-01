@@ -21,8 +21,6 @@ class Navbar extends Component {
       isOpen,
       viewlanguage,
       polish,
-      english,
-      language,
     } = this.context;
     // console.log(language);
     const list = [
