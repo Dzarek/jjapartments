@@ -33,7 +33,6 @@ class FeaturedRooms extends Component {
               breakpoints={{
                 900: {
                   slidesPerPage: 1,
-                  itemWidth: 300,
                 },
               }}
               arrowLeft={

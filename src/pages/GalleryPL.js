@@ -196,27 +196,27 @@ class GalleryPL extends Component {
           <div className="galleryImg">
             {this.state.all &&
               imagesAll.map((item, index) => {
-                return <img key={index} src={item} alt="a" />;
+                return <img key={index} src={item} alt="pokój" />;
               })}
             {this.state.single &&
               imagesSingle.map((item, index) => {
-                return <img key={index} src={item} alt="a" />;
+                return <img key={index} src={item} alt="pokój" />;
               })}
             {this.state.double &&
               imagesDouble.map((item, index) => {
-                return <img key={index} src={item} alt="a" />;
+                return <img key={index} src={item} alt="pokój" />;
               })}
             {this.state.family &&
               imagesFamily.map((item, index) => {
-                return <img key={index} src={item} alt="a" />;
+                return <img key={index} src={item} alt="pokój" />;
               })}
             {this.state.presidental &&
               imagesPresidental.map((item, index) => {
-                return <img key={index} src={item} alt="a" />;
+                return <img key={index} src={item} alt="pokój" />;
               })}
             {this.state.others &&
               imagesOthers.map((item, index) => {
-                return <img key={index} src={item} alt="a" />;
+                return <img key={index} src={item} alt="pokój" />;
               })}
           </div>
         </SRLWrapper>

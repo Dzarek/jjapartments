@@ -22,7 +22,7 @@ class RoomProvider extends Component {
     breakfast: false,
     pets: false,
     language: "english",
-    isOpen: true,
+    isOpen: false,
     viewlanguage: false,
     polish: false,
     english: true,
