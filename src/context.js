@@ -36,16 +36,16 @@ class RoomProvider extends Component {
     this.setState({
       polish: true,
       english: false,
-      viewlanguage: false,
     });
+    this.handleToggle();
     this.getDataPL();
   };
   handleToggleEnglish = () => {
     this.setState({
       polish: false,
       english: true,
-      viewlanguage: false,
     });
+    this.handleToggle();
     this.getDataEN();
   };
   handleToggleLanguage = () => {
